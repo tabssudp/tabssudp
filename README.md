@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=valuue.valuue" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey 👋;+I'm+Value+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Valuue!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Spain ESP</h3>
+<h3 align="center">A passionate software developer from SPAIN</h3>
 
 <br/>
 
@@ -12,13 +12,13 @@
  
  🔭 I’m currently working as a dev in **Nock Services**
  
- 🌱 I’m currently learning **JavaScript, C#**
+ 🌱 I’m currently learning **JavaScript & C#**
+
  </div>
  
 <div align="center"> 
-  <a href="nifykbusiness@gmail.com">
+  <a href="mailto:nifykbusiness@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  <a href="https://valuue.github.io" target="_blank">
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/valuue/valuue/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -47,10 +47,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/?user=valuue&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://streak-stats.demolab.com/api?username=valuue&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/> 
-  <img width=325 align="center" src="https://github-readme-stats-valuue.vercel.app/api/top-langs/?username=valuue&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
