@@ -1,35 +1,66 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=valuue.valuue" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey 👋;+I'm+Value+!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Spain ESP</h3>
+
+<br/>
+
 <div align="center">
  
-<a aling="left" rel="noreferrer" href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valuue&layout=compact&exclude_repo=NPC_medico-FIVEM,Token-Grabber&theme=dark" alt="Top Langs"></a>
-
-
+ 🔭 I’m currently working as a dev in **Nock Services**
  
-<a rel="noreferrer" href=""><img src="https://github-readme-stats.vercel.app/api?username=valuue&count_private=true&show_icons=true&theme=dark&disable_animations=false&hide_title=true" alt="GitHub Stats"></a>
+ 🌱 I’m currently learning **JavaScript, C#**
  </div>
-
-<div align="center">
-<a href="https://discord.gg/XRgnQJuQYa">
-<img src="https://lanyard.cnrad.dev/api/1133476465476915332?theme=dark&bg=292b2f&animated=true&borderRadius=27px">
  
+<div align="center"> 
+  <a href="nifykbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://valuue.github.io" target="_blank">
+  </a>
 </div>
 
+ <hr/>
  
- 
- 
- 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-
-<h3>Contact Me!</h3>
- 
- 
-<a rel="noreferrer" href="https://github.com/valuue"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="noreferrer" href="https://discord.gg/XRgnQJuQYa"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
- 
- <h3>Working</h3>
- <img align="center"src="https://skillicons.dev/icons?i=cs,html,discord,bots,dotnet,github,md,bash,php,linux,py,visualstudio,vscode"/>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-<h3 align="center">Socials:</h3>
-<p align="center">
-<a href="https://www.instagram.com/warn1ty?igsh=MTNhZjBiamd0ODAybQ%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Value" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCNQtBOLnyuKriTW-gmYShaA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Value" height="30" width="40" /></a>
-</p>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/> 
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://discord.gg/rMyFm6QV9S' border='0' alt='Join Nock Services' /></a>
+</div>
+
+<br/>
