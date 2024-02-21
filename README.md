@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=valuue.valuue" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Valuue!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Inject!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from SPAIN</h3>
@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a dev in **Nock Services**
+ 🔭 I’m currently working as a dev in **My own Project**
  
  🌱 I’m currently learning **JavaScript & C#**
 
