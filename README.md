@@ -10,14 +10,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a dev in **Exo Project**
+ 🔭 I’m currently working as a dev in **My Own Project**
  
  🌱 I’m currently learning **JavaScript & C#**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:nifykbusiness@gmail.com">
+  <a href="nifykbusiness@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
