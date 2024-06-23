@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Txbss.Txbss" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ineditao.Ineditao" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+💋;+Here+Tabss!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+💋;+Here+Ineditao!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from SPAIN</h3>
@@ -41,10 +41,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Txbss&theme=radical&border_radius=5&exclude_days=Fri%2CSat" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Txbss&show_icons=true&theme=radical&border_radius=5" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com?user=Ineditao&theme=radical&border_radius=5&exclude_days=Fri%2CSat" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ineditao****&show_icons=true&theme=radical&border_radius=5" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Txbss&size_weight=0.5&theme=radical&count_weight=0.5" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ineditao&size_weight=0.5&theme=radical&count_weight=0.5" />
 </div>
 
 <br/><br/>
