@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://github.com/Ineditao/Ineditao/assets/banner"/>
+    <img src="https://github.com/Ineditao/Ineditao/assets/banner.gif"/>
 </h1>
 
 <h3 align="center">A passionate software developer from SPAIN</h3>
