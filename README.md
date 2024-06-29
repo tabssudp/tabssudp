@@ -42,7 +42,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribuitons:" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -51,12 +51,37 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ineditao&theme=dark&show_icons=true&count_private=false" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ineditao&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ineditao&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Ineditao&theme=radical&border_radius=5&size_weight=0.5&exclude_days=Fri%2CSat" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ineditao&show_icons=true&theme=radical&border_radius=5" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ineditao&size_weight=0.5&theme=radical&count_weight=0.5" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Ineditao&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
+<!--- trophy (start) -->
+
+
+</p>    
 
 <br/><br/>
 
