@@ -6,8 +6,9 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Ineditao;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 
-
-![IMG_3224](https://github.com/Ineditao/Ineditao/assets/137601276/5175a713-c46b-4e77-8321-5873377126ca)
+<div align="center">
+    <img src="https://github.com/Ineditao/Ineditao/assets/137601276/5175a713-c46b-4e77-8321-5873377126ca" alt="IMG_3224" />
+</div>
 
 
 <h3 align="center">A passionate software developer from SPAIN</h3>
