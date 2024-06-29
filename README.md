@@ -48,7 +48,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Ineditao&theme=radical&border_radius=5&exclude_days=Fri%2CSat" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ineditao**&show_icons=true&theme=radical&border_radius=5" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ineditao&show_icons=true&theme=radical&border_radius=5" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ineditao&size_weight=0.5&theme=radical&count_weight=0.5" />
 </div>
