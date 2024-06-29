@@ -86,5 +86,20 @@
 </p>    
 
 <br/><br/>
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-<hr/>
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/Ineditao/MACspoofer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ineditao&repo=MACspoofer&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	
+  </p>
+</div>
+</details>
+
+</br></br>
