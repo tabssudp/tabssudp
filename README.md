@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+💋;+Here+Ineditao!;" />
 </h1>
 
-<h1 align="center">
-    ![banner](https://github.com/Ineditao/Ineditao/assets/137601276/48e679e8-a0bd-445a-a5c8-3ce1a3074b30)
-</h1>
+
+![banner](https://github.com/Ineditao/Ineditao/assets/137601276/48e679e8-a0bd-445a-a5c8-3ce1a3074b30)
+
 
 <h3 align="center">A passionate software developer from SPAIN</h3>
 
