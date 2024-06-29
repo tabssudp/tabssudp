@@ -7,11 +7,11 @@
   </div>
 
 
-![banner](https://github.com/Ineditao/Ineditao/assets/137601276/48e679e8-a0bd-445a-a5c8-3ce1a3074b30)
-
+![IMG_3224](https://github.com/Ineditao/Ineditao/assets/137601276/5175a713-c46b-4e77-8321-5873377126ca)
 
 
 <h3 align="center">A passionate software developer from SPAIN</h3>
+
 
 
 <br/>
