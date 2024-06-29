@@ -16,13 +16,19 @@
 
  </div>
 
+<div align="center"> 
+  <a href="https://discord.com/users/1160553696048975905">
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=black" />
+  </a>
+</div>
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
