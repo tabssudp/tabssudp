@@ -3,12 +3,9 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Ineditao;Welcome;Inquisitive+and+Curious+by+nature;Learning+Software+and+Computer+Engineer;Passionate+of+Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+💋;+Here+Ineditao!;" />
-</h1>
 
+![banner](https://github.com/Ineditao/Ineditao/assets/137601276/48e679e8-a0bd-445a-a5c8-3ce1a3074b30)
 
-<h3 align="center">![banner](https://github.com/Ineditao/Ineditao/assets/137601276/48e679e8-a0bd-445a-a5c8-3ce1a3074b30)</h3>
 
 
 <h3 align="center">A passionate software developer from SPAIN</h3>
