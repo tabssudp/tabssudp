@@ -5,10 +5,11 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://github.com/Ineditao/Ineditao/assets/banner.gif"/>
+    ![banner](https://github.com/Ineditao/Ineditao/assets/137601276/48e679e8-a0bd-445a-a5c8-3ce1a3074b30)
 </h1>
 
 <h3 align="center">A passionate software developer from SPAIN</h3>
+
 
 <br/>
 
