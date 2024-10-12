@@ -1,9 +1,10 @@
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=xvaluee&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://github.com/user-attachments/assets/bb4ac630-e3d3-48e6-913a-efbffcf2d90f" alt = "Profile Views"/>
 </p>
 
+
 <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+xvaluee;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=94928b&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+A+Z;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 
 <div align="center">
