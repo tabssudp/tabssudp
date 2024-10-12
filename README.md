@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=xvaluee&color=lightgrey&label=Profile+Views&base=12300)
+![](https://komarev.com/ghpvc/?username=azrealm&color=lightgrey&label=Profile+Views&base=12300)
 
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=94928b&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+A+Z;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
@@ -60,14 +60,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=xvaluee&theme=dark&show_icons=true&count_private=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=azrealm&theme=dark&show_icons=true&count_private=false" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xvaluee&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azrealm&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xvaluee&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=azrealm&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -76,7 +76,7 @@
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=xvaluee&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=azrealm&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
@@ -93,8 +93,8 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/xvaluee/MACspoofer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=xvaluee&repo=MACspoofer&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/azrealm/MACspoofer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=azrealm&repo=MACspoofer&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	
   </p>
