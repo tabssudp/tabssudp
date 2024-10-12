@@ -1,7 +1,4 @@
-<p align = "center">
-	![](https://komarev.com/ghpvc/?username=xvaluee&base=1000)
-</p>
-
+![](https://komarev.com/ghpvc/?username=xvaluee&color=lightgrey&label=Profile+Views&base=12.3k)
 
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=94928b&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+A+Z;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
