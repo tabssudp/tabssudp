@@ -1,5 +1,5 @@
 <p align = "center">
-	<img src = "https://github.com/user-attachments/assets/bb4ac630-e3d3-48e6-913a-efbffcf2d90f" alt = "Profile Views"/>
+	![](https://komarev.com/ghpvc/?username=xvaluee&base=1000)
 </p>
 
 
@@ -8,7 +8,7 @@
   </div>
 
 <div align="center">
-    <img src="https://github.com/xvaluee/xvaluee/assets/137601276/5175a713-c46b-4e77-8321-5873377126ca" alt="IMG_3224" />
+	<img src = "https://github.com/user-attachments/assets/bb4ac630-e3d3-48e6-913a-efbffcf2d90f" alt = "Profile Views"/>
 </div>
 
 
