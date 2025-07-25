@@ -5,7 +5,7 @@
   </div>
 
 <div align="center">
-	<img src = "https://github.com/user-attachments/assets/bb4ac630-e3d3-48e6-913a-efbffcf2d90f" alt = "Profile Views"/>
+	<img src = "https://github.com/tabssudp/tabssudp/blob/main/assets/banner.png" alt = "Profile Views"/>
 </div>
 
 
