@@ -1,11 +1,11 @@
-![](https://komarev.com/ghpvc/?username=tabssudp&color=blue&label=Profile+Views&base=12300)
+![](https://komarev.com/ghpvc/?username=versedll&color=blue&label=Profile+Views&base=12300)
 
 <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=008EFF&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Tabss;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=008EFF&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Verse;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 
 <div align="center">
-	<img src = "https://github.com/tabssudp/tabssudp/blob/main/assets/banner.png" alt = "Profile Views"/>
+	<img src = "https://github.com/versedll/versedll/blob/main/assets/banner.png" alt = "Profile Views"/>
 </div>
 
 
@@ -60,14 +60,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tabssudp&theme=dark&show_icons=true&count_private=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=versedll&theme=dark&show_icons=true&count_private=false" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tabssudp&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tabssudp&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=versedll&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -76,7 +76,7 @@
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=tabssudp&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=versedll&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
@@ -93,8 +93,8 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/tabssudp/MACspoofer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=tabssudp&repo=MACspoofer&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/versedll/MACspoofer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=versedll&repo=MACspoofer&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	
   </p>
